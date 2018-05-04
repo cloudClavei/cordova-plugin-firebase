@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "387006510241",
+    "firebase_url": "https://psloader-5ed14.firebaseio.com",
+    "project_id": "psloader-5ed14",
+    "storage_bucket": "psloader-5ed14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387006510241:android:1d075c04d83febb1",
+        "android_client_info": {
+          "package_name": "com.clavei.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387006510241-4ici9m6th8u2s2s0bci76tit6kuokk1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2TEanVrQvP-5n_zejHpbARC70yFzYE74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
